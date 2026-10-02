@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shyam4442.github.io/gold-loan-enquiry/sitemap.xml
